@@ -67,3 +67,8 @@ Markdown | Result | Shortcut
 
 ## Issues
 修复 [Issue #5](https://github.com/anguer/vue-editor/issues/5)
+
+
+## License
+Ruby on Rails is released under the MIT License.
+
